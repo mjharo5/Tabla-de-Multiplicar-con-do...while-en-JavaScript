@@ -36,3 +36,6 @@ do {
     tablaHTML += `${n} x ${i} = ${n * i}<br>`;
     i++;
 } while (i <= 12);
+
+![Tabla-de-Multiplicar-con-do...while-en-JavaScript](calculadora.jpg)
+
