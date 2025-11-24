@@ -1,0 +1,10 @@
+/* Puedes agregar estilos personalizados aquí */
+body {
+    background-color: #f8f9fa; /* Fondo gris claro */
+}
+
+#resultado {
+    font-family: monospace; /* Fuente tipo consola para la tabla */
+    font-size: 1.1rem;
+    line-height: 1.5;
+}
